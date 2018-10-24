@@ -1,7 +1,7 @@
 {
   "name": "ide-ibmstreams",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SPL language support for Atom-IDE [Beta]",
   "repository": "https://github.com/IBMStreams/ide-ibmstreams",
   "license": "Apache-2.0",
