@@ -1,7 +1,7 @@
 {
   "name": "ide-ibmstreams",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "SPL language support for Atom-IDE [Beta]",
   "repository": "https://github.com/IBMStreams/ide-ibmstreams",
   "license": "Apache-2.0",
@@ -15,8 +15,8 @@
     "language-client"
   ],
   "dependencies": {
-    "atom-languageclient": "0.8.3",
-    "@ibmstreams/spl-lsp": "0.x.x"
+    "atom-languageclient": "0.9.9",
+    "@ibmstreams/spl-lsp": "0.9.4"
   },
   "enhancedScopes": [
     "source.spl"
