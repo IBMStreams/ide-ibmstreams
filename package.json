@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "atom-languageclient": "0.9.9",
-    "@ibmstreams/spl-lsp": "0.9.4"
+    "@ibmstreams/spl-lsp": "0.9.6"
   },
   "enhancedScopes": [
     "source.spl"
