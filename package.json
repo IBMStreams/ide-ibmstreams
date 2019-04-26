@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "atom-languageclient": "0.9.9",
-    "@ibmstreams/spl-lsp": "0.9.4"
+    "@ibmstreams/spl-lsp": "0.9.6"
   },
   "enhancedScopes": [
     "source.spl"
@@ -39,6 +39,11 @@
     }
   },
   "providedServices": {
+    "streams-toolkits": {
+      "versions": {
+        "1.0.0": "provideToolkitUpdater"
+      }
+    },
     "autocomplete.provider": {
       "versions": {
         "2.0.0": "provideAutocomplete"
